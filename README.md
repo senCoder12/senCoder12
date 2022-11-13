@@ -7,7 +7,7 @@
 
 <img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://mayukh-sen.netlify.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://mayukhsen-portfolio.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
